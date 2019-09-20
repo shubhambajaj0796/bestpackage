@@ -38,3 +38,10 @@
 #page3 .cols {
 	width:215px;
 }
+
+.about-us {
+    background-color: #FFE4B5;
+    margin: 10px 0;
+    padding: 20px;
+    border: 1px solid #FFE5B5;
+}
